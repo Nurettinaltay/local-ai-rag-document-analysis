@@ -112,7 +112,19 @@ document storage
 This makes the project suitable for privacy-sensitive document analysis.
 
 Language
+## Screenshots
 
+### Main interface
+![Main interface](screenshots/main-interface.png)
+
+### Answer and analysis
+![Answer analysis](screenshots/answer-analysis.png)
+
+### Hybrid retrieval
+![Hybrid retrieval](screenshots/hybrid-retrieval.png)
+
+### Retrieval benchmark
+![Benchmark summary](screenshots/benchmark-summary.png)
 The application interface and generated answers are in Dutch.
 
 Project Status
