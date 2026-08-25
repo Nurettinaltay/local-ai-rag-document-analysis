@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Project-specific
+uploaded_scans/
+.vscode/
+.idea/
+benchmark_results/
+*.pdf
