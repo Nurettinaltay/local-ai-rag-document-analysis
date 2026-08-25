@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Wat is datamigratie?",
+    "expected_file": "datamigratie_handleiding.pdf",
+    "expected_pages": [1]
+  },
+  {
+    "question": "Waar moet ik op letten bij een datamigratie?",
+    "expected_file": "datamigratie_handleiding.pdf",
+    "expected_pages": [1]
+  },
+  {
+    "question": "Uit hoeveel deelopdrachten bestaat de eindopdracht?",
+    "expected_file": "Opdrachten_Business_Management_Organisatie_ MIW.pdf",
+    "expected_pages": [1]
+  },
+  {
+    "question": "Wie is de docent van deze deelmodule?",
+    "expected_file": "Opdrachten_Business_Management_Organisatie_ MIW.pdf",
+    "expected_pages": [1]
+  },
+  {
+    "question": "In welk bestandsformaat mag ik de opdracht inleveren?",
+    "expected_file": "Opdrachten_Business_Management_Organisatie_ MIW.pdf",
+    "expected_pages": [1]
+  },
+  {
+    "question": "Welke naamgevingsconventie moet ik voor mijn bestand gebruiken?",
+    "expected_file": "Opdrachten_Business_Management_Organisatie_ MIW.pdf",
+    "expected_pages": [1]
+  },
+  {
+    "question": "In welke taal mag ik de opdracht schrijven?",
+    "expected_file": "Opdrachten_Business_Management_Organisatie_ MIW.pdf",
+    "expected_pages": [1]
+  },
+  {
+    "question": "Mag ik Wikipedia gebruiken als bron?",
+    "expected_file": "Opdrachten_Business_Management_Organisatie_ MIW.pdf",
+    "expected_pages": [1]
+  },
+  {
+    "question": "Welke eisen gelden voor de bronvermelding?",
+    "expected_file": "Opdrachten_Business_Management_Organisatie_ MIW.pdf",
+    "expected_pages": [1]
+  },
+  {
+    "question": "Aan welke voorwaarden moet het bedrijf voldoen dat ik kies?",
+    "expected_file": "Opdrachten_Business_Management_Organisatie_ MIW.pdf",
+    "expected_pages": [1]
+  },
+  {
+    "question": "Wat moet ik doen als ik een hele grote multinational kies?",
+    "expected_file": "Opdrachten_Business_Management_Organisatie_ MIW.pdf",
+    "expected_pages": [1]
+  },
+  {
+    "question": "Waarom is kennis van organisaties belangrijk voor een ICT-er?",
+    "expected_file": "Opdrachten_Business_Management_Organisatie_ MIW.pdf",
+    "expected_pages": [2]
+  },
+  {
+    "question": "Wat moet ik doen bij de opdracht over strategie?",
+    "expected_file": "Opdrachten_Business_Management_Organisatie_ MIW.pdf",
+    "expected_pages": [2]
+  },
+  {
+    "question": "Wat moet ik met het organogram van de organisatie doen?",
+    "expected_file": "Opdrachten_Business_Management_Organisatie_ MIW.pdf",
+    "expected_pages": [2]
+  },
+  {
+    "question": "Welke vijf onderwerpen van operations management moet ik beschrijven?",
+    "expected_file": "Opdrachten_Business_Management_Organisatie_ MIW.pdf",
+    "expected_pages": [3]
+  },
+  {
+    "question": "Hoeveel werkzaamheden van de afdeling HRM moet ik uitwerken?",
+    "expected_file": "Opdrachten_Business_Management_Organisatie_ MIW.pdf",
+    "expected_pages": [3]
+  },
+  {
+    "question": "Welke vragen moet ik beantwoorden over marketing en prijszetting?",
+    "expected_file": "Opdrachten_Business_Management_Organisatie_ MIW.pdf",
+    "expected_pages": [3]
+  },
+  {
+    "question": "Wat moet ik doen bij de opdracht over prestatie-indicatoren en KPI's?",
+    "expected_file": "Opdrachten_Business_Management_Organisatie_ MIW.pdf",
+    "expected_pages": [3, 4]
+  },
+  {
+    "question": "Wat moet ik in de reflectie beschrijven?",
+    "expected_file": "Opdrachten_Business_Management_Organisatie_ MIW.pdf",
+    "expected_pages": [4]
+  },
+  {
+    "question": "Wat vond de student lastig aan de opdrachten?",
+    "expected_file": "Reflectie_Nurettin_Altay.pdf",
+    "expected_pages": [1]
+  },
+  {
+    "question": "Wat was volgens de reflectie leerzaam?",
+    "expected_file": "Reflectie_Nurettin_Altay.pdf",
+    "expected_pages": [1]
+  },
+  {
+    "question": "Welke onderdelen van de opdracht waren financieel lastig?",
+    "expected_file": "Reflectie_Nurettin_Altay.pdf",
+    "expected_pages": [1]
+  }
+]
