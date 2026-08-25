@@ -1,3 +1,6 @@
+
+
+````md
 # Local AI RAG Document Analysis
 
 A privacy-first local RAG application for analyzing PDF documents and scanned images.
@@ -67,20 +70,24 @@ Nomic         MiniLM
                     |
                     v
           Dutch grounded answer
-Retrieval
+````
+
+## Retrieval
 
 The application supports multiple retrieval strategies:
 
-Semantic search using vector similarity
-Keyword search using PostgreSQL full-text search
-Hybrid search using Reciprocal Rank Fusion
-Cross-encoder reranking for improved relevance
-Structured Output
+* Semantic search using vector similarity
+* Keyword search using PostgreSQL full-text search
+* Hybrid search using Reciprocal Rank Fusion
+* Cross-encoder reranking for improved relevance
+
+## Structured Output
 
 The application can also generate schema-constrained JSON output.
 
 This allows AI results to be processed further in systems such as:
 
+```text
 AI
  |
 JSON
@@ -90,44 +97,57 @@ Python
 Database
  |
 Power BI
-Benchmarking
+```
+
+## Benchmarking
 
 Retrieval strategies can be evaluated using:
 
-Hit-rate@k
-MRR@k
-Page coverage
-Search duration
-Privacy
+* Hit-rate@k
+* MRR@k
+* Page coverage
+* Search duration
+
+## Privacy
 
 The application is designed to run locally.
 
 No cloud APIs are required for:
 
-embeddings
-language model inference
-vector search
-document storage
+* Embeddings
+* Language model inference
+* Vector search
+* Document storage
 
 This makes the project suitable for privacy-sensitive document analysis.
 
 ## Language
 
+The application interface and generated answers are in Dutch.
+
 ## Screenshots
 
 ### Main interface
+
 ![Main interface](screenshots/main-interface.png)
 
 ### Answer and analysis
+
 ![Answer analysis](screenshots/answer-analysis.png)
 
 ### Hybrid retrieval
+
 ![Hybrid retrieval](screenshots/hybrid-retrieval.png)
 
 ### Retrieval benchmark
-![Benchmark summary](screenshots/benchmark-summary.png)
-The application interface and generated answers are in Dutch.
 
-Project Status
+![Benchmark summary](screenshots/benchmark-summary.png)
+
+## Project Status
 
 Portfolio / learning project focused on local AI, RAG, retrieval quality and document analysis.
+
+```
+
+Buradaki en önemli düzeltme, **Architecture** ve **Structured Output** kod bloklarını kapatmak oldu. Böylece GitHub artık aşağıdaki başlıkları ve görselleri düzgün render eder.
+```
