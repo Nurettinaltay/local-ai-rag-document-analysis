@@ -111,7 +111,8 @@ document storage
 
 This makes the project suitable for privacy-sensitive document analysis.
 
-Language
+## Language
+
 ## Screenshots
 
 ### Main interface
